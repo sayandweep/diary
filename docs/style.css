@@ -1,14 +1,14 @@
 @font-face{
   font-family: Hind Siliguri;
-  src: url(/fonts/HindSiliguri-Medium.ttf);
+  src: url(https://sayandweep.github.io/myprofile//fonts/HindSiliguri-Medium.ttf);
 }
 @font-face{
   font-family: KohinoorBangla M;
-  src: url(/fonts/KohinoorBangla-Medium.otf);
+  src: url(https://sayandweep.github.io/myprofile//fonts/KohinoorBangla-Medium.otf);
 }
 @font-face{
   font-family: KohinoorBangla B;
-  src: url(/fonts/KohinoorBangla-Bold.otf);
+  src: url(https://sayandweep.github.io/myprofile//fonts/KohinoorBangla-Bold.otf);
 }
 html {
   scroll-behavior: smooth;
