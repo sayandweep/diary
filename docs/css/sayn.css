@@ -1,0 +1,189 @@
+@font-face{
+  font-family: Hind Siliguri;
+  src: url(https://sayandweep.github.io/myprofile/fonts/HindSiliguri-Medium.ttf);
+}
+@font-face{
+  font-family: KohinoorBangla M;
+  src: url(https://sayandweep.github.io/myprofile/fonts/KohinoorBangla-Medium.otf);
+}
+@font-face{
+  font-family: KohinoorBangla B;
+  src: url(https://sayandweep.github.io/myprofile/fonts/KohinoorBangla-Bold.otf);
+}
+html {
+  scroll-behavior: smooth;
+}
+* {
+  -webkit-tap-highlight-color: #00F77954;
+}
+a,a:hover {
+  color: inherit;
+}
+.u_line {
+  display: inline-block;
+}
+.u_line::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: white;
+    transition: width .3s;
+}
+
+.u_line:hover::after {
+    width: 100%;
+    transition: width .3s;
+}
+.col-sm-6>img {
+  border-radius: 100px;
+  margin: 15px;
+  box-sizing: border-box;
+  width: 30%;
+  border-top: solid whitesmoke 5px;
+  border-left: solid #00FFC6 5px;
+  border-right: solid #00FFC6 5px;
+  border-bottom: solid darkred 5px;
+}
+.font-fira {
+  font-family: 'Fira Sans' !important
+}
+.font-nunito {
+  font-family: 'Nunito' !important;
+}
+.font-roboto {
+  font-family: 'Roboto' !important;
+}
+.font-poppins {
+  font-family: 'poppins' !important;
+}
+.marg-15 {
+  margin: 15px;
+}
+.marg-15>a {
+  margin: 0 10px;
+}
+.icon-40 {
+  font-size: 40px;
+}
+.color-yellow {
+  color: #FFCB23;
+}
+.social-body {
+  margin-top: 60px;
+}
+.ml1 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml1 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+.ml1 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+}
+
+.ml1 .line {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  height: 3px;
+  width: 100%;
+  background-color: #fff;
+  transform-origin: 0 0;
+}
+
+.ml1 .line1 { top: 0; }
+.ml1 .line2 { bottom: 0; }
+.ml2, .big-tit {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+.title {
+  font-size: 40px;
+}
+.blog {
+  padding: 15px;
+  background: #00c090;
+  margin: 15px;
+  height: 390px;
+}
+.blog img {
+  margin-top: -40px
+}
+.bg-white {
+  background: white;
+  color: black
+}
+.title {
+  margin-top: -40px
+}
+.blog p {
+  transition: transform 300ms cubic-bezier(.9, .9, .9, 1)
+}
+.blog:hover p {
+  transform: translateY(-10px); 
+}
+.carousel-inner {
+  width: 100%;
+}
+.col-6:nth-child(n) {
+  background: whitesmoke;
+  color: black;
+}
+.col-6:nth-child(2n+0) {
+  background: Salmon;
+}
+.col-6:nth-child(3n+0) {
+  background: Salmon;
+}
+.fontbox {
+  height: 190px;
+  font-size: 20px;
+  transition: 300ms cubic-bezier(0.47, 0, 0.745, 0.715);
+  position: relative;
+  top: 40%;
+  left: 25%;
+}
+.fontbox:hover {
+  font-size: 25px
+}
+.sayhi {
+  background: #00c090;
+  padding: 20px;
+  margin-top: -40px;
+}
+@media (min-width:786px) {
+  .marg-15 {
+    margin: 25px;
+  }
+  .col-sm-6>img {
+  margin: 40px;
+  width: 35%;
+}
+.carousel-inner {
+  width: 60%;
+}
+.col-6:nth-child(odd) {
+  background: whitesmoke;
+}
+.col-6:nth-child(even) {
+  background: Salmon;
+}
+.fontbox {
+  top: 40%;
+  left: 30%;
+}
+}
