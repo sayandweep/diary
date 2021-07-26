@@ -1,6 +1,9 @@
 body {
   background-color: #485274 !important;
 }
+a,a:hover,a:active {
+color: inherit
+}
 .nav-tit {
   font-size: 25px
 }
