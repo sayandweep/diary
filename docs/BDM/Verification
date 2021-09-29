@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Scripts -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v12.0&appId=1130229024080227&autoLogAppEvents=1" nonce="uXTWpSDG"></script>
+		<style type="text/css" media="all">
+			@font-face {
+			font-family: an;
+			src: url(https://sayandweep.github.io/fonts/Li%20Ador%20Noirrit%20Unicode.ttf);
+			}
+			* {
+				font-family: 'an';
+			}
+			body {
+				background: #EDEDED;
+			}
+			a,a:hover {
+				text-decoration: none;
+				color: inherit;
+			}
+			.page-main {
+				height: auto;
+				width: 100%;
+				background: #EDEDED;
+			}
+			.head-content {
+				font-family: 'an';
+				border-radius: 20px;
+				background: #c52127;
+				color: white;
+				padding: 20px;
+				background-image: url('https://lipighor.com/newimg/download.svg');
+				background-position: right;
+				position: relative;
+				background-repeat: no-repeat;
+				margin: 20px;
+				font-size: 1.5em;
+				transition: .3s;
+				font-weight: 100;
+			}
+			.content {
+				background: white;
+				color: ##222330;
+				padding: 20px;
+				margin: 20px;
+				border-radius: 20px;
+			}
+			.auth-box {
+				background: #FF8A00;
+				border-radius: 20px;
+				color: white;
+				margin: 20px;
+				padding: 20px;
+			}
+			span,font,div{
+				background: transparent;
+			}
+			.auth-i-a {
+				display: grid;
+				grid-template-columns: auto auto;
+				background: transparent;
+			}
+			.auth-img {
+				border-radius: 100px;
+				border: solid white 5px;
+			}
+			.name {
+				font-size: 1.3em;
+				display: block
+			}
+			.role {
+				font-size: 0.8em;
+				display: block;
+			}
+			.a-r {
+				margin-left: 80px;
+				position: absolute;
+				margin-top: 5px;
+			}
+			h2 {
+				margin-top: -20px;
+				font-size: 2em;
+			}
+			p {
+				font-size: 1em;
+			}
+			hr {
+				background-color: black;
+				border: solid grey 1px;
+				width: 80%;
+				border-radius: 100px;
+			}
+			.call {
+				border-radius: 5px;
+				background: white;
+				box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+				padding: 10px;
+				text-align: center;
+				background-image: linear-gradient(45deg, #0B43FA, #0BC4FA);
+				color: white;
+				transition: .4s
+			}
+			.call:hover {
+				bacground: #1D1B28;
+			  background-position-x: 20px
+			}
+			.relative {
+				position: relative;
+				display: block;
+				height: 100px
+			}
+			.results {
+				right: 35px;
+				top: 0px;
+				position: absolute;
+				margin-top: 35px
+				
+			}
+			.fb_iframe_widget_fluid_desktop, .fb_iframe_widget_fluid_desktop span, .fb_iframe_widget_fluid_desktop iframe {
+            max-width: 100% !important;
+            width: 100% !important;
+ }
+ .sayn-ul {
+ 	list-style: numerical
+ }
+			@media (min-width: 786px) {
+				.media {
+					float: left;
+					width: 50%
+				}
+				.author {
+					float: right;
+					width: 50%
+				}
+			}
+		</style>
+		<title>How become Verified from DMB</title>
+		
+	</head>
+	<body>
+		<div class='page-main'>
+			<div class='media'>
+			<div class='head-content'>
+				দীনবন্ধু মহাবিদ্যালয় থেকে রেজিস্ট্রশন ফর্ম ভেরিফাই করার পদ্ধতি
+			</div>
+			<div class='content'>
+			 এখানে একটা বিস্তারিত আলোচনা করা হলো কিভাবে রেজিস্ট্রশন ফর্ম ভেরিফাই করবে। প্রথমে নিম্ন লিখিত ডকুমেন্ট অবশ্যই নিয়ে আসবে। 
+			 <ol class="sayn-ul">
+			 	<li>
+			 		ভর্তির ফর্ম
+			 	</li>
+			 	<li>
+			 		রেজিস্ট্রেশন ফর্ম
+			 	</li>
+			 	<li>
+			 		মাধ্যমিকের অ্যাডমিট
+			 	</li>
+			 	<li>
+			 		২ কপি ফটো
+			 	</li>
+			 	<li>
+			 	  উচ্চ মাধ্যমিকে মার্কশিট এবং সার্টিফিকেট
+			 	</li><li>
+			 		পে স্লিপ এবং লিভিং সার্টিফিকেট
+			 	</li>
+			 </ol>
+			 <hr><br>
+			 উক্ত বলা প্রতিটা ডকস এর ৩ কপি জেরক্স আনতে হবে। কলেজ অফিস এ বলে দেওয়া ডেট এ এসে নিজের ভেরিফিকেশন করতে হবে। এর জন্যে কোনো টাকা লাগবে না। 
+			 <br>
+			 আবেদনকারীর দিক থেকে রেজিস্ট্রেশন সম্পূর্ণ হলে কলেজে রেজিস্ট্রেশন এর সময় তার ফোন এ otp আসবে সেটা কলেজ কে দেওয়ার মাধ্যমে ভেরিফিকেশন সমাপ্ত হবে। এর পরে আবেদন করির কলেজ কপি আর ইউনিভার্সিটি কপি তে নিজের ফটো কপি লাগিয়ে উক্ত ডকস গুলো একসাথে জমা দিতে হবে।
+		   			</div>
+		 </div>
+		 <div class='author'>
+		 	<!-- Comment -->
+		 	<div class="content">
+		 		<div class="fb-comments" data-href="https://sayandweep.github.io/myprofile/BDM/Registration" data-width="" data-numposts="5"></div>
+		 	</div>
+		 
+		 <!-- Author -->
+		 <div class='auth-box'>
+		 		<div class='auth-i-a'>
+		 			<div><img src="/myprofile/images/images.png" class='auth-img' alt="Author" width="14%"/></div>
+		 			<div class='a-r'>
+		 		<span class='name'>Sayandweep</span>
+		 		<span class='role'>Admin • Last Modified 16 Sep 2021</span>
+		 			</div>
+		 		</div>
+		 	</div>
+		 	<center>
+		 			People Came here for
+		 			<a href='https://www.symptoma.es/' style="position: absolute; z-index: -10">https://www.Symptoma.es</a>
+		 			<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=b42a46c1bdcf56e6d3ca04212339df4ebb0f0dc3'></script>
+		 			<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/871690/t/3"></script>
+		 	</center>
+		 		</div>
+		<!-- t1-->
+<script>var secs = 5000;
+setInterval(function() {
+    var $badge = $('#nhb_01');
+    $badge.text((parseFloat($badge.text())+1).toFixed(0));
+}, secs);
+</script>
+    <!-- t2 -->
+    <script>var secs = 10000;
+setInterval(function() {
+    var $badge = $('#nhb_02');
+    $badge.text((parseFloat($badge.text())+1).toFixed(0));
+}, secs);
+</script>
+<!-- t3-->
+<script>var secs = 15000;
+setInterval(function() {
+    var $badge = $('#nhb_03');
+    $badge.text((parseFloat($badge.text())+1).toFixed(0));
+}, secs);
+</script>
+<!-- t4-->
+<script>var secs = 18000;
+setInterval(function() {
+    var $badge = $('#nhb_04');
+    $badge.text((parseFloat($badge.text())+1).toFixed(0));
+}, secs);
+</script>
+	</body>
+</html>
