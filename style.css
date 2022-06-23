@@ -63,12 +63,12 @@ html {
 }
 .dairy-title {
   font-size: 1.2em;
-  font-family: 'Inter' !important;
+  font-family: 'Inter' !important; font-weight: 900
 }
 .dairy-content {
-  font-size: 15px;
+  font-size: 1em;
   line-height: 23px;
-  margin: 20px 0 20px 0;
+  margin: 30px 0 30px 0;
   font-family: 'Shurjo' !important;
 }
 .dairy-body {
