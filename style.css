@@ -10,6 +10,10 @@
 body {
     font-size: 15pt;
 }
+a,a:hover {
+  text-decoration: none;
+  color: inherit;
+} 
 html {
   scroll-behavior: smooth
 }
