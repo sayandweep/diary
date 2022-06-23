@@ -1,0 +1,59 @@
+:root {
+  --darkC1: #1D354E;
+  --darkC2: #57626E;
+  --lightC1: #EEEFF1;
+  --fontS1: Shurjo;
+  --fontS2: Shurjo Bold;
+  --fontI: Inter;
+  --lightC2: #FEFBF5;
+}
+body {
+    font-size: 15pt;
+}
+html {
+  scroll-behavior: smooth
+}
+* {
+  box-sizing: border-box;
+  /*border: solid black 1px*/
+}
+#sayandweep {
+  transition: .5s;
+}
+.home-ui .int-pic {
+  filter: opacity(10%);
+  animation: fadein 1.5s alternate;
+}
+.home-ui .introduce-speech {
+  max-width: 700px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+.home-ui .int-spc {
+  font-family: var(--fontI);
+  font-size: .6em;
+}
+.introduce-name {
+  font-size: 2em;
+  font-family: var(--fontI);
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+/* Media */
+@media (min-width: 786px) {
+  .home-ui .int-spc {
+    font-size: 1.2em;
+  }
+}
+/* Animation */ 
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
