@@ -1,12 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang='en'>
 <head>
-<title>Page Title</title>
+  <meta charset='UTF-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=Edge'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <!-- Fonts -->
+  <link rel='preconnect' href='https://fonts.googleapis.com'>
+  <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+  <link href='https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap' rel='stylesheet'>
+  <!-- Meta -->
+  <title>Sayandweep | SayN</title>
+  <!-- Custom Styles -->
+  <link rel='stylesheet' href='style.css'>
+  <style>
+    @font-face {
+      font-family: 'Shurjo';
+      src: url(/external/Shurjo-Regular.ttf)
+    }
+    @font-face {
+      font-family: 'Shurjo Bold';
+      src: url(/external/Shurjo-Bold.ttf)
+    }
+    html * {
+      font-family: var(--fontS1);
+    }
+  </style>
 </head>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
+<body class='no-margin' id='sayandweep'>
+  <div class='home-ui'>
+    <div class='introduce-us'>
+      <div class='introduce-pic'>
+        <img src='/images/logo.png' alt='Logo' width='100%' class='int-pic'>
+      </div>
+      <div class="introduce-name">
+        Sayandweep
+      </div>
+      <div class='introduce-speech'>
+        <span class='int-spc'>
+          Student, Thinker, Graphic Designer, Audio Producer, Director and Writter
+        </span>
+      </div>
+    </div>
+  </div>
+  <!-- Project -->
+  <script src='main.js'></script>
 </body>
 </html>
